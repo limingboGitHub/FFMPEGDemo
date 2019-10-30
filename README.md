@@ -1,2 +1,2 @@
 # FFMPEGDemo
-说明
+使用FFmpegMediaMetadataRetriever提取视频帧，相比android自带的方法，效果更好，不会产生压缩波纹
